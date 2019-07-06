@@ -1,9 +1,5 @@
 # Inventoo
-educational social media app where each educational institutions can have their own social media to bring the students a certain level and making easy for the students to intreact with their teachers personally from any whrere in the world..
-the vision of this app is to bring all the students in a educational institution to a same level i.e they can share what they have learned.
-In this app even the teachers go on live teaching classes where the class projector will be casting the videos.
-This prototype contains the frature of taking attendance also.
-a student can even send a feedback to the management.
+educational social media app where each educational institutions can have their own social media to bring the students a certain level and making easy for the students to interact with their teachers personally from any where in the world.. the vision of this app is to bring all the students in an educational institution to the same level i.e they can share what they have learned. In this app, even the teachers go on live teaching classes where the class projector will be casting the videos. This prototype contains the feature of taking attendance also. a student can even send feedback to the management.  
 
 
 ![android mobile 1](https://user-images.githubusercontent.com/31507308/53894746-a9b3aa80-4056-11e9-869b-a01d0f81c6c2.png)
